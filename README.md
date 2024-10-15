@@ -14,4 +14,5 @@ Alerts: Notifications if vial counts fall below a certain threshold.
 
 
 The interface:
+
 ![image](https://github.com/user-attachments/assets/5ca38ab0-a808-43c2-b32e-615c0fe591bb)
